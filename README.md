@@ -1,4 +1,3 @@
-![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmoyNHM5MGVmY3J6OG0wMmUxZHR2ZDFoNHB4c25rcGVzb3AxODc4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)
 <h1 align="center">Hi 👋, I'm Mohit</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
