@@ -1,3 +1,4 @@
+![MasterHead](https://tenor.com/view/developer-gif-5961023514282496825)
 <h1 align="center">Hi 👋, I'm Mohit</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
