@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohitsh67199179" target="blank"><img src="https://img.shields.io/twitter/follow/mohitsh67199179?logo=twitter&style=for-the-badge" alt="mohitsh67199179" /></a> </p>
 
-- 🌱 I’m currently learning **ruby on rails, redux**
+- 🌱 I’m currently learning **ruby on rails, redux** 
 
 - 💬 Ask me about **react, js, sql, c++, etc.**
 
