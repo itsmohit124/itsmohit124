@@ -72,23 +72,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsmohit124&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
-</p>
-
 ---
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmohit124&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00C2FF/itsmohit124" alt="Contribution Chart" />
-</p>
 
 ---
 
