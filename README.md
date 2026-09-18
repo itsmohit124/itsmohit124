@@ -72,10 +72,6 @@
 
 ---
 
----
-
----
-
 # 💼 Professional Experience
 
 ### 🔹 Software Engineer, Backend — **Intellicar Telematics Pvt Ltd**
